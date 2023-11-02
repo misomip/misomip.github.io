@@ -5,7 +5,7 @@ permalink: /misomip2/
 ---
 
 <div>
-<img src="{{site.url}}img/baniere_MISOMIP2.jpg" width="100%" height="100%"/>
+<img src="{{site.url}}img/baniere_MISOMIP2.png" width="100%" height="100%"/>
 </div>
 
 <br>
