@@ -5,18 +5,20 @@ The first stage of MISOMIP activities (MISOMIP1) was initited during a workshop 
 Co-chairs: Stephen Cornford and Hilmar Gudmundsson
 
 
-|Model       | Participants |
-|------------|--------------|
-|BISICLES    | Steph Cornford, Dan Martin |
-|CISM        | Gunter Leguy, William Lipscomb |
-|Elmer/Ice   | Nacho Merino, Gaël Durand |
-|ISSM        | Chris Borstad |
-|ISSM	     | Hélène Seroussi, Mathieu Morlighem, Hongju Yu, Thiago Dos Santos |
-|ISSM	     | Julia Christmann, Angelika Humbert |
-|MPAS-LI     | Matt-Hoffman |
-|PISM	     | Johannes Feldmann |
-|PSU3D	     | David Pollard |
-|STREAMICE   | Daniel Goldberg |
-|TIM-FD3     | Thomas Kleiner, Martin Rükamp, Angelika Humbert |
-|Úa          | Hilmar Gudmundsson |
-|WAVI        | Robert Arthern, Rosie Williams |
+| Model       |  Participants |
+| ------------| --------------|
+| BISICLES    | Steph Cornford, Dan Martin |
+| CISM        | Gunter Leguy, William Lipscomb |
+| Elmer/Ice   | Nacho Merino, Gaël Durand |
+| ISSM        | Chris Borstad |
+| ISSM	      | Hélène Seroussi, Mathieu Morlighem, Hongju Yu, Thiago Dos Santos |
+| ISSM	      | Julia Christmann, Angelika Humbert |
+| MPAS-LI     | Matt-Hoffman |
+| PISM	      | Johannes Feldmann |
+| PSU3D	      | David Pollard |
+| STREAMICE   | Daniel Goldberg |
+| TIM-FD3     | Thomas Kleiner, Martin Rükamp, Angelika Humbert |
+| Úa          | Hilmar Gudmundsson |
+| WAVI        | Robert Arthern, Rosie Williams |
+
+
