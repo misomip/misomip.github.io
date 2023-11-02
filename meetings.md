@@ -1,3 +1,9 @@
+---
+layout: page
+title: Meetings
+permalink: /meetings/
+---
+
 **MISOMIP2 Splinter Meeting (EGU 2023)**
 
 European Geosciences Union, Vienna, Austria & online
