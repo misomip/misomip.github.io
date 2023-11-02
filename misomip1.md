@@ -1,3 +1,9 @@
+---
+layout: page
+title: MISOMIP1
+permalink: /misomip1/
+---
+
 The first stage of MISOMIP activities (MISOMIP1) was initited during a workshop organised by David Holland in 2014. It consisted of an idealized model intercomparison exercise with 3 components: MISMIP+, ISOMIP+ and MISOMIP1. The motivation for these MIPs and the design of the experiments are described in [Asay-Davis et al. (2016)](http://www.geosci-model-dev-discuss.net/gmd-2015-228/). The results of MISMIP+ are published in [Cornford et al. (2020)](https://doi.org/10.5194/tc-14-2283-2020).
 
 <br>
