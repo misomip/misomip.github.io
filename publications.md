@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 The publications emanating from the entire MISOMIP consortium are in **bold**. The other publications make use of some of the MISOMIP configurations. 
 
 **2023**

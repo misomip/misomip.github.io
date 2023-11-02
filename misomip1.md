@@ -79,5 +79,5 @@ _Co-Chairs: Xylar Asay-Davis, Helene Seroussi_
 |MOM6/CISM        | Gustavo Marques, William Lipscomb, |
 |                 | Gunter Leguy|
 |POPSICLES        | Xylar Asay-Davis, Dan Martin|
-|UKESM1is         | Robert Smith, Christopher Bull, |
+|UKESM1is         | Robin Smith, Christopher Bull, |
 |                 | Pierre Mathiot |
