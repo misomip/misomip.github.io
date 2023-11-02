@@ -4,6 +4,8 @@ title: MIPkit-A (Amundsen)
 date: 02-11-2023
 ---
 
+**[Download MIPkit-A from Zenodo](http://doi.org/10.5281/zenodo.10062356)**
+
 Observational data kit gathered and reprocess to facilitate the evaluation of ocean models as part of [MISOMIP2](https://climate-cryosphere.org/about-15/).
 
 **This entire dataset should be cited as** the MISOMIP2 MIPkit-A dataset [http://doi.org/10.5281/zenodo.10062356](http://doi.org/10.5281/zenodo.10062356) that includes data collected through multiple cruises of the Nathaniel B. Palmer (United States Antarctic Program), James C. Ross (British Antarctic Survey and Natural Environment Research Council), Araon (Korea Polar Research Institute), Oden (Swedish Polar Research) and Polarstern (Alfred Wegener Institute, Germany).

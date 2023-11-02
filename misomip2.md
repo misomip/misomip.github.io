@@ -24,6 +24,6 @@ A protocol paper is in preparation.
 
 <br>
 
-**More information on the MIPkit**
+**[More information on the MIPkit]({{site.url}}misomip2_dir/misomip2_MIPkit.md)**
 
 **More information on the experiments**
