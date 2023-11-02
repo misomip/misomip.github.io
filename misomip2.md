@@ -13,7 +13,8 @@ permalink: /misomip2/
 <br>
 
 **Co-chairs:**
-Jan De Rydt, Nicolas Jourdain, Mathias van Caspel, Yoshihiro Nakayama, Ralph Timmermann
+
+**Jan De Rydt, Nicolas Jourdain, Mathias van Caspel, Yoshihiro Nakayama, Ralph Timmermann**
 
 <br>
 
