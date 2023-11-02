@@ -51,7 +51,7 @@ _Co-Chairs: Xylar Asay-Davis, Helene Seroussi_
 
 
 | Model           |  Participants |
-| ----------------| --------------|
+|    :---:        |    :---:      |
 |Elmer/Ice-ROMS	  | Rupert Gladstone, Ben Galton-Fenzi, |
 |                 | David Gwyther, Chen Zhao|
 |Elmer/Ice-NEMO	  | Nicolas Jourdain, Nacho Merino|
