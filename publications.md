@@ -8,6 +8,10 @@ permalink: /publications/
 <img src="{{site.url}}img/baniere_Publications.png" width="100%" height="100%"/>
 </div>
 
+<br>
+
+<br>
+
 The publications emanating from the entire MISOMIP consortium are in **bold**. The other publications make use of some of the MISOMIP configurations. 
 
 **2023**
