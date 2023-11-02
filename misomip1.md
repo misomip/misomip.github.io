@@ -2,7 +2,7 @@ The first stage of MISOMIP activities (MISOMIP1) was initited during a workshop 
 
 #### MISMIP+: 3rd Marine Ice Sheet Model Intercomparison Project
 
-Co-chairs: Stephen Cornford and Hilmar Gudmundsson
+_Co-chairs: Stephen Cornford and Hilmar Gudmundsson_
 
 
 | Model       |  Participants |
@@ -14,7 +14,7 @@ Co-chairs: Stephen Cornford and Hilmar Gudmundsson
 | ISSM	      | Hélène Seroussi, Mathieu Morlighem, |
 |             | Hongju Yu, Thiago Dos Santos |
 | ISSM	      | Julia Christmann, Angelika Humbert |
-| MPAS-LI     | Matt-Hoffman |
+| MPAS-LI     | Matt Hoffman |
 | PISM	      | Johannes Feldmann |
 | PSU3D	      | David Pollard |
 | STREAMICE   | Daniel Goldberg |
@@ -24,3 +24,44 @@ Co-chairs: Stephen Cornford and Hilmar Gudmundsson
 | WAVI        | Robert Arthern, Rosie Williams |
 
 
+#### ISOMIP+: 2nd Ice Shelf Ocean Model Intercomparison Project
+
+_Co-Chairs: Xylar Asay-Davis, Ben Galton-Fenzi_
+
+
+| Model       |  Participants |
+| ------------| --------------|
+|COCO         | Kazuya Kusahara|
+|FVCOM        | Tore Hattermann, Qin Zhou|
+|MITgcm       | Jim Jordan, Paul Holland, Dan Goldberg|
+|MITgcm       | Yoshihiro Nakayama|
+|MOM6         | Gustavo Marques, Alon Stern, |
+|             | Robert Hallberg, Alistair Adcroft|
+|MPAS-O       | Xylar Asay-Davis|
+|NEMO         | Nicolas Jourdain, Pierre Mathiot|
+|NEMO         | Robin Smith, Christopher Bull |
+|POP2x        | Xylar Asay-Davis|
+|ROMS         | David Gwyther, Chen Zhao, Ben Galton-Fenzi, |
+|             | Mike Dinniman, Rupert Gladstone|
+
+
+#### MISOMIP1: 1st Marine Ice Sheet-Ocean Model Intercomparison Project
+
+_Co-Chairs: Xylar Asay-Davis, Helene Seroussi_
+
+
+| Model           |  Participants |
+| ----------------| --------------|
+|Elmer/Ice-ROMS	  | Rupert Gladstone, Ben Galton-Fenzi, |
+|                 | David Gwyther, Chen Zhao|
+|Elmer/Ice-NEMO	  | Nicolas Jourdain, Nacho Merino|
+|ISSM-MITgcm      | Yoshihiro Nakayama, Hélène Seroussi, |
+|                 | Mathieu Morlighem|
+|MITgcm-STREAMICE | Dan Goldberg|
+|MITgcm-Úa        | Kaitlin Naughten, Jan De Rydt, |
+|                 | Hilmar Gudmundsson|
+|MOM6/CISM        | Gustavo Marques, William Lipscomb, |
+|                 | Gunter Leguy|
+|POPSICLES        | Xylar Asay-Davis, Dan Martin|
+|UKESM1is         | Robert Smith, Christopher Bull, |
+|                 | Pierre Mathiot |
