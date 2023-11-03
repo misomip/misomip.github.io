@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIPkit
+title: MISOMIP2's MIPkit
 date: 02-11-2023
 ---
 
