@@ -18,15 +18,16 @@ These data are described in [Mathiot and Jourdain (2023)](https://doi.org/10.519
 
 The anomalies to add to the present-day reanalysis forcing in MISOMIP2's A1vw and W1vw experiments are provided as 3-hourly annual climatologies on the JRA55 lon-lat grid for the following variables:
 
-**dhuss**: Near-Surface Specific Humidity anomaly.
-**dpr**: Precipitation anomaly at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective).
-**dprsn**: Solid precipitation anomaly at surface; includes precipitation of all forms of water in the solid phase.
-**dps**: Surface Air Pressure anomaly.
-**drlds**: Surface Downwelling Longwave Radiation anomaly.
-**drsds**: Surface Downwelling Shortwave Radiation anomaly.
-**dtas**: Near-Surface Air Temperature anomaly.
-**duas**: Eastward Near-Surface Wind anomaly.
-**dvas**: Northward Near-Surface Wind anomaly.
+* **dhuss**: Near-Surface Specific Humidity anomaly.
+* **dpr**: Precipitation anomaly at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective).
+* **dprsn**: Solid precipitation anomaly at surface; includes precipitation of all forms of water in the solid phase.
+* **dps**: Surface Air Pressure anomaly.
+* **drlds**: Surface Downwelling Longwave Radiation anomaly.
+* **drsds**: Surface Downwelling Shortwave Radiation anomaly.
+* **dtas**: Near-Surface Air Temperature anomaly.
+* **duas**: Eastward Near-Surface Wind anomaly.
+* **dvas**: Northward Near-Surface Wind anomaly.
+
 The anomalies are provided for a 365-day year. If the present-day forcing used in MISOMIP2 contains leap years, then the 28-February forcing should be repeated on February 29th.
 
 <br>
