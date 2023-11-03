@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: MIPkit-W (Weddell)
 date: 02-11-2023
 ---
