@@ -4,7 +4,7 @@ title: MIPkit-A (Amundsen)
 date: 02-11-2023
 ---
 
-**[Download MIPkit-A from Zenodo](http://doi.org/10.5281/zenodo.10062356)**
+[**Download MIPkit-A from Zenodo**](http://doi.org/10.5281/zenodo.10062356)
 
 Observational data kit gathered and reprocess to facilitate the evaluation of ocean models as part of [MISOMIP2](https://climate-cryosphere.org/about-15/).
 

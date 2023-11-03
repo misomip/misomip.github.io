@@ -4,7 +4,7 @@ title: MIPkit-W (Weddell)
 date: 02-11-2023
 ---
 
-**[Download MIPkit-W from Zenodo](http://doi.org/10.5281/zenodo.8316180)**
+[**Download MIPkit-W from Zenodo**](http://doi.org/10.5281/zenodo.8316180)
 
 Observational data kit gathered and reprocessed to facilitate the evaluation of ocean models as part of [MISOMIP2](https://climate-cryosphere.org/about-15/).
 
