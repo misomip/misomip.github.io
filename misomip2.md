@@ -28,6 +28,6 @@ A protocol paper is in preparation.
 
 **More information...**
 
-* [**on the MIPkit**]({{site.url}}misomip2_dir/misomip2_MIPkit.md)
+* [**on the MIPkit**](/misomip2_dir/misomip2_MIPkit.md)
 
 * **on the experiments**
