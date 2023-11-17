@@ -12,7 +12,7 @@ Observational data kit gathered and reprocess to facilitate the evaluation of oc
 
 For more specific use of some of the MIPkit-A data, we encourage people to cite the original data referenced below.
 
-### IceVel\_MIPkitA\_2000-2019 : annual maps of ice surface velocity (in m/year) between 2000 and 2019
+### IceSurfVel\_MIPkitA\_2000-2019 : annual maps of ice surface velocity (in m/year) between 2000 and 2019
 
 Surface-parallel velocity vectors are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of all available Earth observation data from the MeaSUREs project ([Rignot et al. 2014](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001) and [Mouginot et al. 2017](https://doi.org/10.5067/9T4EPQXTJYW9)) and MeaSUREs ITS_LIVE project ([Gardner et al. 2022](http://doi:10.5067/6II6VW8LLWJ7)), with weights corresponding to the inverse square error of the original datasets. Propagated errors and a mask indicating the original data sources for each grid point are also included.
 
