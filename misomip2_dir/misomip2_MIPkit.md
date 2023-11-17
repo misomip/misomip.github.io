@@ -8,7 +8,7 @@ date: 02-11-2023
 
 * [**MIPkit–W (Weddell)**](misomip2_MIPkitW_README.md) : Weddell Sea ocean temperature and salinity data on horizontal slices, vertical sections and moorings.
 
-* [**MIPkit-Perturbations**](misomip2_MIPkit-Perturbations_README.md) : Anomalies to perturbate the atmospheric forcing (and ocean lateral noundaries) in a very warm secnario, and ice-shelf geometry for ocean experiments with perturbed geomatrty.
+* [**MIPkit-Perturbations**](misomip2_MIPkit-Perturbations_README.md) : Anomalies to perturbate the atmospheric forcing (and ocean lateral boundaries) in a very warm scenario, and ice-shelf geometry for ocean experiments with perturbed geometry.
 
 <br>
 
