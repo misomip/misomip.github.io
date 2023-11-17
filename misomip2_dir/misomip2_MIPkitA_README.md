@@ -16,7 +16,7 @@ For more specific use of some of the MIPkit-A data, we encourage people to cite 
 
 Surface-parallel velocity vectors are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of all available Earth observation data from the MeaSUREs project ([Rignot et al. 2014](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001) and [Mouginot et al. 2017](https://doi.org/10.5067/9T4EPQXTJYW9)) and MeaSUREs ITS_LIVE project ([Gardner et al. 2022](http://doi:10.5067/6II6VW8LLWJ7)), with weights corresponding to the inverse square error of the original datasets. Propagated errors and a mask indicating the original data sources for each grid point are also included.
 
-### IceSurfElChange\_MIPkitA\_2000-2019 : annual maps of surface elevation change (in m) between 1992 and 2019, relative to 16-Dec-2013
+### IceSurfElChange\_MIPkitA\_1992-2019 : annual maps of surface elevation change (in m) between 1992 and 2019, relative to 16-Dec-2013
 
 Surface elevation changes are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of available Earth observation data from CPOM ([Otosaka al. 2023](https://zenodo.org/records/8117577)) and MeaSUREs ITS\_LIVE ([Nilsson et al. 2023](https://doi.org/10.5067/L3LSVDZS15ZV)) for the grounded ice and MeaSUREs ITS_LIVE data ([Paolo et al. 2023](https://doi.org/10.5067/SE3XH9RXQWAM)) for floating ice. Propagated errors and a mask indicating the original data sources for each grid point are also included.
 
