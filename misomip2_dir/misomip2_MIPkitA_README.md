@@ -12,6 +12,14 @@ Observational data kit gathered and reprocess to facilitate the evaluation of oc
 
 For more specific use of some of the MIPkit-A data, we encourage people to cite the original data referenced below.
 
+### IceVel\_MIPkitA\_2000-2019 : annual maps of ice surface velocity (in m/year) between 2000 and 2019
+
+Surface-parallel velocity vectors are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of all available Earth observation data from the MeaSUREs project ([Rignot et al. 2014](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001) and [Mouginot et al. 2017](https://doi.org/10.5067/9T4EPQXTJYW9)) and MeaSUREs ITS_LIVE project ([Gardner et al. 2022](http://doi:10.5067/6II6VW8LLWJ7)), with weights corresponding to the inverse square error of the original datasets. Propagated errors and a mask indicating the original data sources for each grid point are also included.
+
+### IceSurfElChange\_MIPkitA\_2000-2019 : annual maps of surface elevation change (in m) between 1992 and 2019, relative to 16-Dec-2013
+
+Surface elevation changes are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of available Earth observation data from CPOM ([Otosaka al. 2023](https://zenodo.org/records/8117577)) and MeaSUREs ITS\_LIVE ([Nilsson et al. 2023](https://doi.org/10.5067/L3LSVDZS15ZV)) for the grounded ice and MeaSUREs ITS_LIVE data ([Paolo et al. 2023](https://doi.org/10.5067/SE3XH9RXQWAM)) for floating ice. Propagated errors and a mask indicating the original data sources for each grid point are also included.
+
 ### Oce3d\_MIPkitA\_* : 3-dimensional temperature and salinity (horizontal slices every 100m)
 
 The hydrographic properties provided on horizontal sections at 15 depths come from the CTD measurements obtained during cruises of the following icebreaker research vessels: Nathaniel B. Palmer (United States Antarctic Program), James C. Ross (British Antarctic Survey and Natural Environment Research Council), Araon (Korea Polar Research Institute), Oden (Swedish Polar Research) and Polarstern (Alfred Wegener Institute, Germany). In this MIPkit, we have gathered data for the first months of 2009 ([Jacobs 2009](http://doi.org/10.7284/905547)), 2010 ([Swedish Polar Research Secretariat 2010](http://snd.gu.se/en/catalogue/dataset/ecds0220-1); [Gohl 2015](https://doi.org/10.1594/PANGAEA.847944)), 2012 ([Kim et al. 2012](https://repository.kopri.re.kr/handle/201206/4603)), 2014 ([Heywood 2014](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/13405/); [Ha et al. 2014](https://repository.kopri.re.kr/handle/201206/4605)), 2016 ([Kim et al. 2016](https://ftp.nmdc.no/nmdc/UIB/Mooring/20181213/ANA06B_cruise_report.pdf)), 2017 ([Gohl 2017](http://doi.org/10.2312/BzPM_0712_2017)), 2018 ([Kim et al. 2018](https://repository.kopri.re.kr/handle/201206/9441)), 2019 ([Larter et al. 2019](http://doi.org/10.7284/908147)) and 2020 ([Wellner, 2020](http://doi.org/10.7284/908803)).
@@ -35,6 +43,8 @@ The archive **example\_routines.zip** contains example of Matlab routine that we
 ### References
 
 * Dutrieux, P., De Rydt, J., Jenkins, A., Holland, P. R., Ha, H. K., Lee, S. H., Steig, E. J., Ding, Q., Abrahamsen, E. P., and Schröder, M.: Strong sensitivity of Pine Island ice-shelf melting to climatic variability, Science, 343, 174–178, 2014.
+
+* Gardner, A., Fahnestock, M., and Scambos, T.: MEaSUREs ITS_LIVE Regional Glacier and Ice Sheet Surface Velocities, Version 1, https://doi.org/10.5067/6II6VW8LLWJ7, 2022
 
 * Gohl, K.: Station list and links to master tracks in different resolutions of POLARSTERN cruise ANT-XXVI/3, Wellington - Punta Arenas, 2010-01-30 - 2010-04-05, Tech. rep., Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, [https://doi.org/10.1594/PANGAEA.847944](https://doi.org/10.1594/PANGAEA.847944), 2015.
 
@@ -60,7 +70,17 @@ The archive **example\_routines.zip** contains example of Matlab routine that we
 
 * Larter, R., Barham, M., Boehme, L., Braddock, S., Graham, A., Hogan, K., Mazur, A., Minzoni, R., Queste, B., Sheehan, P., Spoth, M., Wåhlin, A., Bortolotto-d’Oliveira, G., Clark, R. W., Fitzgerald, V., Karam, S., Kirkham, J., Stedt, F., Zheng, Y., Beeler, C., Goodell, J., Rush, E., Snow, T., Welzenbach, L., Andersson, J., and Rolandsson, J.: Cruise NBP1902, RVIB Nathaniel B. Palmer, Jan 29 – Mar 25 2019, Tech. rep., United States Antarctic Program, [http://doi.org/10.7284/908147](http://doi.org/10.7284/908147), 2019.
 
+* Mouginot, J., Scheuchl, B., and Rignot, E.: MEaSUREs Annual Antarctic Ice Velocity Maps, Version 1, https://doi.org/10.5067/9T4EPQXTJYW9, 2017.
+
 * Nakayama, Y., Schröder, M., and Hellmer, H. H.: From circumpolar deep water to the glacial meltwater plume on the eastern Amundsen Shelf, Deep Sea Res. I, 77, 50–62, 2013.
+
+* Nilsson, J., Gardner, A. S., and Paolo, F. S.: MEaSUREs ITS_LIVE Antarctic Grounded Ice Sheet Elevation Change, Version 1, https://doi.org/10.5067/L3LSVDZS15ZV, 2023
+
+* Otosaka, I., Gilbert, L., and Shepherd, A.: Surface elevation change of the Amundsen Sea Embayment 1992-2019, https://doi.org/10.5281/zenodo.8117577, 2023
+
+* Paolo, F. S., Gardner, A. S., Greene, C. A., and Schlegel, N.-J.: MEaSUREs ITS_LIVE Antarctic Ice Shelf Height Change and Basal Melt Rates, Version 1, https://doi.org/10.5067/SE3XH9RXQWAM, 2023
+
+* Rignot, E., Mouginot, J., and Scheuchl, B.: MEaSUREs InSAR-Based Ice Velocity of the Amundsen Sea Embayment, Antarctica, Version 1, https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001, 2014.
 
 * Swedish Polar Research Secretariat: Oden Southern Ocean 2009/10 - Conductivity-Temperature-Depth (CTD) Data Collected Onboard Icebreaker Oden during February through March 2010, Tech. rep., Swedish Polar Research, [http://snd.gu.se/en/catalogue/dataset/ecds0220-1](http://snd.gu.se/en/catalogue/dataset/ecds0220-1), 2010.
 
