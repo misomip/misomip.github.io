@@ -44,7 +44,7 @@ The archive **example\_routines.zip** contains example of Matlab routine that we
 
 * Dutrieux, P., De Rydt, J., Jenkins, A., Holland, P. R., Ha, H. K., Lee, S. H., Steig, E. J., Ding, Q., Abrahamsen, E. P., and Schröder, M.: Strong sensitivity of Pine Island ice-shelf melting to climatic variability, Science, 343, 174–178, 2014.
 
-* Gardner, A., Fahnestock, M., and Scambos, T.: MEaSUREs ITS_LIVE Regional Glacier and Ice Sheet Surface Velocities, Version 1, https://doi.org/10.5067/6II6VW8LLWJ7, 2022
+* Gardner, A., Fahnestock, M., and Scambos, T.: MEaSUREs ITS_LIVE Regional Glacier and Ice Sheet Surface Velocities, Version 1, [https://doi.org/10.5067/6II6VW8LLWJ7](https://doi.org/10.5067/6II6VW8LLWJ7), 2022
 
 * Gohl, K.: Station list and links to master tracks in different resolutions of POLARSTERN cruise ANT-XXVI/3, Wellington - Punta Arenas, 2010-01-30 - 2010-04-05, Tech. rep., Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, [https://doi.org/10.1594/PANGAEA.847944](https://doi.org/10.1594/PANGAEA.847944), 2015.
 
@@ -70,17 +70,17 @@ The archive **example\_routines.zip** contains example of Matlab routine that we
 
 * Larter, R., Barham, M., Boehme, L., Braddock, S., Graham, A., Hogan, K., Mazur, A., Minzoni, R., Queste, B., Sheehan, P., Spoth, M., Wåhlin, A., Bortolotto-d’Oliveira, G., Clark, R. W., Fitzgerald, V., Karam, S., Kirkham, J., Stedt, F., Zheng, Y., Beeler, C., Goodell, J., Rush, E., Snow, T., Welzenbach, L., Andersson, J., and Rolandsson, J.: Cruise NBP1902, RVIB Nathaniel B. Palmer, Jan 29 – Mar 25 2019, Tech. rep., United States Antarctic Program, [http://doi.org/10.7284/908147](http://doi.org/10.7284/908147), 2019.
 
-* Mouginot, J., Scheuchl, B., and Rignot, E.: MEaSUREs Annual Antarctic Ice Velocity Maps, Version 1, https://doi.org/10.5067/9T4EPQXTJYW9, 2017.
+* Mouginot, J., Scheuchl, B., and Rignot, E.: MEaSUREs Annual Antarctic Ice Velocity Maps, Version 1, [https://doi.org/10.5067/9T4EPQXTJYW9](https://doi.org/10.5067/9T4EPQXTJYW9), 2017.
 
 * Nakayama, Y., Schröder, M., and Hellmer, H. H.: From circumpolar deep water to the glacial meltwater plume on the eastern Amundsen Shelf, Deep Sea Res. I, 77, 50–62, 2013.
 
-* Nilsson, J., Gardner, A. S., and Paolo, F. S.: MEaSUREs ITS_LIVE Antarctic Grounded Ice Sheet Elevation Change, Version 1, https://doi.org/10.5067/L3LSVDZS15ZV, 2023
+* Nilsson, J., Gardner, A. S., and Paolo, F. S.: MEaSUREs ITS_LIVE Antarctic Grounded Ice Sheet Elevation Change, Version 1, [https://doi.org/10.5067/L3LSVDZS15ZV](https://doi.org/10.5067/L3LSVDZS15ZV), 2023
 
-* Otosaka, I., Gilbert, L., and Shepherd, A.: Surface elevation change of the Amundsen Sea Embayment 1992-2019, https://doi.org/10.5281/zenodo.8117577, 2023
+* Otosaka, I., Gilbert, L., and Shepherd, A.: Surface elevation change of the Amundsen Sea Embayment 1992-2019, [https://doi.org/10.5281/zenodo.8117577](https://doi.org/10.5281/zenodo.8117577), 2023
 
-* Paolo, F. S., Gardner, A. S., Greene, C. A., and Schlegel, N.-J.: MEaSUREs ITS_LIVE Antarctic Ice Shelf Height Change and Basal Melt Rates, Version 1, https://doi.org/10.5067/SE3XH9RXQWAM, 2023
+* Paolo, F. S., Gardner, A. S., Greene, C. A., and Schlegel, N.-J.: MEaSUREs ITS_LIVE Antarctic Ice Shelf Height Change and Basal Melt Rates, Version 1, [https://doi.org/10.5067/SE3XH9RXQWAM](https://doi.org/10.5067/SE3XH9RXQWAM), 2023
 
-* Rignot, E., Mouginot, J., and Scheuchl, B.: MEaSUREs InSAR-Based Ice Velocity of the Amundsen Sea Embayment, Antarctica, Version 1, https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001, 2014.
+* Rignot, E., Mouginot, J., and Scheuchl, B.: MEaSUREs InSAR-Based Ice Velocity of the Amundsen Sea Embayment, Antarctica, Version 1, [https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001), 2014.
 
 * Swedish Polar Research Secretariat: Oden Southern Ocean 2009/10 - Conductivity-Temperature-Depth (CTD) Data Collected Onboard Icebreaker Oden during February through March 2010, Tech. rep., Swedish Polar Research, [http://snd.gu.se/en/catalogue/dataset/ecds0220-1](http://snd.gu.se/en/catalogue/dataset/ecds0220-1), 2010.
 
