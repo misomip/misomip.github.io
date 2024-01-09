@@ -12,34 +12,40 @@ Observational data kit gathered and reprocess to facilitate the evaluation of oc
 
 For more specific use of some of the MIPkit-A data, we encourage people to cite the original data referenced below.
 
-### IceSurfVel\_MIPkitA\_2000-2019 : annual maps of ice surface velocity (in m/year) between 2000 and 2019
+----------
+#### IceSurfVel\_MIPkitA\_2000-2019 : annual maps of ice surface velocity (in m/year) between 2000 and 2019
 
-Surface-parallel velocity vectors are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of all available Earth observation data from the MeaSUREs project ([Rignot et al. 2014](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001) and [Mouginot et al. 2017](https://doi.org/10.5067/9T4EPQXTJYW9)) and MeaSUREs ITS_LIVE project ([Gardner et al. 2022](http://doi:10.5067/6II6VW8LLWJ7)), with weights corresponding to the inverse square error of the original datasets. Propagated errors and a mask indicating the original data sources for each grid point are also included.
+Surface-parallel velocity vectors are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of all available Earth observation data from the MeaSUREs project ([Rignot et al. 2014](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001) and [Mouginot et al. 2017](https://doi.org/10.5067/9T4EPQXTJYW9)) and MeaSUREs ITS\_LIVE project ([Gardner et al. 2022](http://doi:10.5067/6II6VW8LLWJ7)), with weights corresponding to the inverse square error of the original datasets. Propagated errors and a mask indicating the original data sources for each grid point are also included.
 
 ### IceSurfElChange\_MIPkitA\_1992-2019 : annual maps of surface elevation change (in m) between 1992 and 2019, relative to 16-Dec-2013
 
-Surface elevation changes are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of available Earth observation data from CPOM ([Otosaka al. 2023](https://zenodo.org/records/8117577)) and MeaSUREs ITS\_LIVE ([Nilsson et al. 2023](https://doi.org/10.5067/L3LSVDZS15ZV)) for the grounded ice and MeaSUREs ITS_LIVE data ([Paolo et al. 2023](https://doi.org/10.5067/SE3XH9RXQWAM)) for floating ice. Propagated errors and a mask indicating the original data sources for each grid point are also included.
+Surface elevation changes are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of available Earth observation data from CPOM ([Otosaka al. 2023](https://zenodo.org/records/8117577)) and MeaSUREs ITS\_LIVE ([Nilsson et al. 2023](https://doi.org/10.5067/L3LSVDZS15ZV)) for the grounded ice and MeaSUREs ITS\_LIVE data ([Paolo et al. 2023](https://doi.org/10.5067/SE3XH9RXQWAM)) for floating ice. Propagated errors and a mask indicating the original data sources for each grid point are also included.
 
-### Oce3d\_MIPkitA\_* : 3-dimensional temperature and salinity (horizontal slices every 100m)
+----------
+## Oce3d\_MIPkitA\_* : 3-dimensional temperature and salinity (horizontal slices every 100m)
 
 The hydrographic properties provided on horizontal sections at 15 depths come from the CTD measurements obtained during cruises of the following icebreaker research vessels: Nathaniel B. Palmer (United States Antarctic Program), James C. Ross (British Antarctic Survey and Natural Environment Research Council), Araon (Korea Polar Research Institute), Oden (Swedish Polar Research) and Polarstern (Alfred Wegener Institute, Germany). In this MIPkit, we have gathered data for the first months of 2009 ([Jacobs 2009](http://doi.org/10.7284/905547)), 2010 ([Swedish Polar Research Secretariat 2010](http://snd.gu.se/en/catalogue/dataset/ecds0220-1); [Gohl 2015](https://doi.org/10.1594/PANGAEA.847944)), 2012 ([Kim et al. 2012](https://repository.kopri.re.kr/handle/201206/4603)), 2014 ([Heywood 2014](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/13405/); [Ha et al. 2014](https://repository.kopri.re.kr/handle/201206/4605)), 2016 ([Kim et al. 2016](https://ftp.nmdc.no/nmdc/UIB/Mooring/20181213/ANA06B_cruise_report.pdf)), 2017 ([Gohl 2017](http://doi.org/10.2312/BzPM_0712_2017)), 2018 ([Kim et al. 2018](https://repository.kopri.re.kr/handle/201206/9441)), 2019 ([Larter et al. 2019](http://doi.org/10.7284/908147)) and 2020 ([Wellner, 2020](http://doi.org/10.7284/908803)).
 
+----------
 ### OceSec\<n\>\_MIPkitA\_* : vertical sections
 
 The first vertical (**OceSec1**) section where we provide hydrographic data in the Amundsen Sea starts across the continental shelf break and follows the Eastern Pine Island Trough southward until Pine Island Ice Shelf. This section was monitored by the following cruises: N.B. Palmer in January 2009, Polarstern in March 2010 and Araon in February-March 2012 ([Jacobs et al. 2011](https://doi.org/10.1038/ngeo1188); [Gohl 2015](https://doi.org/10.1594/PANGAEA.847944); [Dutrieux et al. 2014](https://doi.org/10.1126/science.1244341)). The second vertical section (**OceSec2**) starts across the continental shelf break and follows the Dotson-Getz Trough southward until the Dotson Ice Shelf. It was monitored by the aforementioned Araon expeditions in 2010–2011 and early 2012 ([Kim et al. 2017](http://dx.doi.org/10.1016/j.csr.2016.09.005)).
 
 The files OceSec\<n\>\_model\_lon\_lat.csv contain the coordinates (longitude, latitude) at which model data should be interpolated to be compared to the observational sections.
 
+----------
 ### OceMoor\<n\>\_MIPkitA\_* : moorings
 
 The first mooring site (**OceMoor1**) is located near the northern part of the Pine Island ice shelf front (102.07°W, 74.87°S) and captures the thermocline variability from 2012 to 2018 ("iSTAR-8" in NERC iSTAR program, and "pig-n" in NERC Ocean Forcing Ice Change Program). The second mooring site (**OceMoor2**)is located near the southern part of the Pine Island ice shelf front (102.15°W, 75.05°S), was monitored between 2009 and 2016, then in 2019–2020 through the following moorings: "BSR-5" (Buoy Supported Riser; [Jacobs 2009](http://doi.org/10.7284/905547)), "iSTAR-9" ([NERC iSTAR Program](https://www.istar.ac.uk)), and "pig-s" (NERC Ocean Forcing Ice Change Program). This second site experienced a strong deepening of the thermocline in 2012–2013 ([Webber et al. 2017](https://doi.org/10.1038/ncomms14507)), then a more moderate deepening in 2016. These two mooring sites are located only 20 km from each other, show distinct mean thermocline depth and more consistent variability ([Joughin et al. 2021](https://doi.org/10.1126/sciadv.abi5738)).
 
 The third mooring observation (**OceMoor3**, "trough-e" in NERC Ocean Forcing Ice Change Program) used in MISOMIP is at the eastern Pine Island trough (102.55°W, 71.33°S). The eastern trough is considered to be the entrance of mCDW reaching the Pine Island Ice Shelf ([Jacobs et al. 2011](https://doi.org/10.1038/ngeo1188); [Nakayama et al. 2013](https://doi.org/10.1016/j.dsr.2013.04.001); [Webber et al. 2017](https://doi.org/10.1038/ncomms14507)) but only two years of mooring observation was conducted from 2014-2015 due to important sea ice cover. The fourth mooring site (**OceMoor4**) used in MISOMIP is at the western Pine Island trough (113.05°W, 71.56°S). Several mooring observations were conducted within 2 km of each other, allowing us to observe thermocline variability from 2009 to 2016 with one year gap in 2011: "BSR-12" ([Jacobs 2009](http://doi.org/10.7284/905547)), "iSTAR-1" ([NERC iSTAR Program](https://www.istar.ac.uk)), and "trough-w" (NERC Ocean Forcing Ice Change Program).
 
+----------
 ### To know more on how these files were prepared:
 
 The archive **example\_routines.zip** contains example of Matlab routine that were used to prepare the MIPkit-A data.
 
+----------
 ### References
 
 * Dutrieux, P., De Rydt, J., Jenkins, A., Holland, P. R., Ha, H. K., Lee, S. H., Steig, E. J., Ding, Q., Abrahamsen, E. P., and Schröder, M.: Strong sensitivity of Pine Island ice-shelf melting to climatic variability, Science, 343, 174–178, 2014.
