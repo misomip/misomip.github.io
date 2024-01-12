@@ -6,25 +6,29 @@ date: 02-11-2023
 
 [**Download MIPkit-W from Zenodo**](http://doi.org/10.5281/zenodo.8316180)
 
-Observational data kit gathered and reprocessed to facilitate the evaluation of ocean models as part of [MISOMIP2](https://climate-cryosphere.org/about-15/).
+Observational data kit gathered and reprocessed to facilitate the evaluation of ocean models as part of [MISOMIP2](https://misomip.github.io/misomip2/).
 
-**This entire dataset should be cited as** the MISOMIP2 MIPkit-W ([https://zenodo.org/doi/10.5281/zenodo.8316180](https://zenodo.org/doi/10.5281/zenodo.8316180)) that includes data collected through multiple cruises of the Polarstern research vessel and provided by the Alfred Wegener Institute, Bremerhaven, Germany. 
+**This entire dataset should be cited as** _the MISOMIP2 MIPkit-W ([https://zenodo.org/doi/10.5281/zenodo.8316180](https://zenodo.org/doi/10.5281/zenodo.8316180)) that includes data collected through multiple cruises of the Polarstern research vessel and provided by the Alfred Wegener Institute, Bremerhaven, Germany, and glaciological data from the MeaSUREs, MeaSUREs ITS\_LIVE projects_. 
 
 For more specific use of some of the MIPkit-W data, we encourage people to cite the original data (see references below). 
 
-### IceSurfVel\_MIPkitW\_2000-2019 : annual maps of ice surface velocity (in m/year) between 2000 and 2019
+----------
+#### IceSurfVel\_MIPkitW\_2000-2019 : annual maps of ice surface velocity
 
-Surface-parallel velocity vectors are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of all available Earth observation data from the MeaSUREs project ([Rignot et al. 2014](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001) and [Mouginot et al. 2017](https://doi.org/10.5067/9T4EPQXTJYW9)) and MeaSUREs ITS_LIVE project ([Gardner et al. 2022](http://doi:10.5067/6II6VW8LLWJ7)), with weights corresponding to the inverse square error of the original datasets. Propagated errors and a mask indicating the original data sources for each grid point are also included.
+Surface-parallel velocity vectors (in m/year) between 2000 and 2019 are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of all available Earth observation data from the MeaSUREs project ([Rignot et al. 2014](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001) and [Mouginot et al. 2017](https://doi.org/10.5067/9T4EPQXTJYW9)) and MeaSUREs ITS\_LIVE project ([Gardner et al. 2022](http://doi:10.5067/6II6VW8LLWJ7)), with weights corresponding to the inverse square error of the original datasets. Propagated errors and a mask indicating the original data sources for each grid point are also included.
 
-### IceSurfElChange\_MIPkitW\_1992-2019 : annual maps of surface elevation change (in m) between 1992 and 2019, relative to 16-Dec-2013
+----------
+#### IceSurfElChange\_MIPkitW\_1992-2019 : annual maps of surface elevation change
 
-Surface elevation changes are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of available Earth observation data from MeaSUREs ITS\_LIVE ([Nilsson et al. 2023](https://doi.org/10.5067/L3LSVDZS15ZV)) for the grounded ice and MeaSUREs ITS_LIVE data ([Paolo et al. 2023](https://doi.org/10.5067/SE3XH9RXQWAM)) for floating ice. Propagated errors and a mask indicating the original data sources for each grid point are also included.
+Surface elevation changes (in m) between 1992 and 2019, relative to 16-Dec-2013, are provided on the common MISOMIP2 grid with regular grid spacing of 1 km. Data were calculated as a weighted average of available Earth observation data from MeaSUREs ITS\_LIVE ([Nilsson et al. 2023](https://doi.org/10.5067/L3LSVDZS15ZV)) for the grounded ice and MeaSUREs ITS\_LIVE data ([Paolo et al. 2023](https://doi.org/10.5067/SE3XH9RXQWAM)) for floating ice. Propagated errors and a mask indicating the original data sources for each grid point are also included.
 
-### Oce3d\_MIPkitW\_* : 3-dimensional temperature and salinity (horizontal slices every 100m)
+----------
+#### Oce3d\_MIPkitW\_* : 3-dimensional temperature and salinity
 
-The hydrographic properties provided on horizontal sections at 15 depths come from the CTD measurements obtained from late December to early March during the [Alfred Wegener Institute](https://www.awi.de/en/) Polarstern cruises ANT-XII/3 ([Schroeder, 2010](https://doi.org/10.1594/PANGAEA.742581)), PS82 ([Schroeder, 2014](https://doi.org/10.1594/PANGAEA.833299)), PS96 ([Schroeder, 2016](https://doi.org/10.1594/PANGAEA.859040)) and PS111 ([Janout, 2019](https://doi.org/10.1594/PANGAEA.897280)), which cover years 1995, 2014, 2016 and 2018, respectively.
+The hydrographic properties provided on horizontal sections at 15 depths (horizontal slices every 100m) come from the CTD measurements obtained from late December to early March during the [Alfred Wegener Institute](https://www.awi.de/en/) Polarstern cruises ANT-XII/3 ([Schroeder, 2010](https://doi.org/10.1594/PANGAEA.742581)), PS82 ([Schroeder, 2014](https://doi.org/10.1594/PANGAEA.833299)), PS96 ([Schroeder, 2016](https://doi.org/10.1594/PANGAEA.859040)) and PS111 ([Janout, 2019](https://doi.org/10.1594/PANGAEA.897280)), which cover years 1995, 2014, 2016 and 2018, respectively.
 
-### OceSec\<n\>\_MIPkitW\_* : vertical sections
+----------
+#### OceSec\<n\>\_MIPkitW\_* : vertical sections
 
 The first vertical section (**OceSec1**) goes from the tip of the Antartic Peninsula to Kapp Norvegia (12.33°E). It is known as WOCE-SR04 and has been monitored since 1989. The data provided were collected during Polarstern cruises in Sep.-Oct. 1989, Nov.-Dec. 1990, Dec. 1992-Jan. 1993, Mar.-May 1996, Apr.-May 1998 (Fahrbach and Rohardt, [1990](https://doi.org/10.1594/PANGAEA.742580), [1991](https://doi.org/10.1594/PANGAEA.735277), [1993](https://doi.org/10.1594/PANGAEA.742651), [1996](https://doi.org/10.1594/PANGAEA.738489), [1998](https://doi.org/10.1594/PANGAEA.742626)), Jan.-Apr. 2005 ([Rohardt 2010](https://doi.org/10.1594/PANGAEA.733664)), Feb.-Apr. 2008 ([Fahrbach and Rohardt, 2008](https://doi.org/10.1594/PANGAEA.733414)), Dec. 2010-Jan. 2011 ([Rohardt et al. 2011](https://doi.org/10.1594/PANGAEA.772244)), Dec. 2012-Jan. 2013 ([Rohardt 2013](https://doi.org/10.1594/PANGAEA.817255)), as well as Dec. 2016-Jan. 2017 and Dec. 2018-Feb. 2019 (Rohardt and Boebel, [2017](https://doi.org/10.1594/PANGAEA.881076), [2020](https://doi.org/10.1594/PANGAEA.910663)).
 
@@ -32,16 +36,20 @@ The second vertical section (**OceSec2**) is at approximately 76°S and covers t
 
 The third and fourth sections were obtained along the front of Ronne (**OceSec3**) and Filchner (**OceSec4**) ice shelves, respectively. The Filchner section was measured on 1-3 Feb. 1977 by the Norwegian Antarctic Research Expedition with Research Vessel Polarsirkel ([Foldvik et al., 1985](https://doi.org/10.3402/polar.v3i2.6951)), 7-16 Jan. 1981 ([Hubold and Drescher, 1982)](https://epic.awi.de/id/eprint/26181/1/BerPolarforsch19824.pdf)), 25 Jan.- 4 Mar. 1995 ([Schroeder, 2010](https://doi.org/10.1594/PANGAEA.742581)), 15-17 Jan. 2014 ([Schroeder, 2014](https://doi.org/10.1594/PANGAEA.833299)), 15 Jan. 2016 (only one vertical profile; [Schroeder, 2016](https://doi.org/10.1594/PANGAEA.859040)), and 14-23 Feb. 2018 ([Janout, 2019](https://doi.org/10.1594/PANGAEA.897280)). The Ronne section was measured by some of these expeditions on 25 Jan.- 24 Feb. 1995, 14-15 Jan. 2016, and 9-14 Feb. 2018.
 
-### OceMoor\<n\>\_MIPkitW\_* : moorings
+----------
+#### OceMoor\<n\>\_MIPkitW\_* : moorings
 
 Temperature, salinity and velocity time series are provided at three moorings placed along the 76°S vertical section and referred to as **OceMoor1** (AWI252, 30.47°W), **OceMoor2** (AWI253, 30.99°W) and **OceMoor3** (AWI254, 31.48°W), and cover the period from Jan. 2014 to Feb. 2018 (Schroeder et al., [2017a](https://doi.org/10.1594/PANGAEA.875931), [2017b](https://doi.org/10.1594/PANGAEA.875932), [2017c](https://doi.org/10.1594/PANGAEA.875933), [2019a](https://doi.org/10.1594/PANGAEA.903104), [2019b](https://doi.org/10.1594/PANGAEA.903315), [2019c](https://doi.org/10.1594/PANGAEA.903317)). Temperature, salinity and velocity data were obtained at two depths for AWI252 (335 and 421 m depth for a seafloor at 447 m) and AWI253 (349 and 434 m depth for a seafloor at 456 m), while a single depth is provided for AWI254 (553 m for a seafloor at 581 m).
 
-### To know more on how these files were prepared:
+----------
+#### To know more on how these files were prepared:
 
-The archive **example\_routines.zip** contains example of Matlab routine that were used to prepare the MIPkit-W data.
+The archive **example\_routines.zip** contains example of Matlab routine that were used to prepare the MIPkit-W ocean data.
 
-### References
-* Gardner, A., Fahnestock, M., and Scambos, T.: MEaSUREs ITS_LIVE Regional Glacier and Ice Sheet Surface Velocities, Version 1, [https://doi.org/10.5067/6II6VW8LLWJ7](https://doi.org/10.5067/6II6VW8LLWJ7), 2022
+----------
+#### References
+
+* Gardner, A., Fahnestock, M., and Scambos, T.: MEaSUREs ITS\_LIVE Regional Glacier and Ice Sheet Surface Velocities, Version 1, [https://doi.org/10.5067/6II6VW8LLWJ7](https://doi.org/10.5067/6II6VW8LLWJ7), 2022
   
 * Fahrbach, E. and Rohardt, G. (1990). Physical oceanography during POLARSTERN cruise ANT-VIII/2 (WWGS) on section SR02 and SR04, PANGAEA, [https://doi.org/10.1594/PANGAEA.742580](https://doi.org/10.1594/PANGAEA.742580).
 
@@ -63,9 +71,9 @@ The archive **example\_routines.zip** contains example of Matlab routine that we
 
 * Mouginot, J., Scheuchl, B., and Rignot, E.: MEaSUREs Annual Antarctic Ice Velocity Maps, Version 1, [https://doi.org/10.5067/9T4EPQXTJYW9](https://doi.org/10.5067/9T4EPQXTJYW9), 2017.
 
-* Nilsson, J., Gardner, A. S., and Paolo, F. S.: MEaSUREs ITS_LIVE Antarctic Grounded Ice Sheet Elevation Change, Version 1, [https://doi.org/10.5067/L3LSVDZS15ZV](https://doi.org/10.5067/L3LSVDZS15ZV), 2023
+* Nilsson, J., Gardner, A. S., and Paolo, F. S.: MEaSUREs ITS\_LIVE Antarctic Grounded Ice Sheet Elevation Change, Version 1, [https://doi.org/10.5067/L3LSVDZS15ZV](https://doi.org/10.5067/L3LSVDZS15ZV), 2023
 
-* Paolo, F. S., Gardner, A. S., Greene, C. A., and Schlegel, N.-J.: MEaSUREs ITS_LIVE Antarctic Ice Shelf Height Change and Basal Melt Rates, Version 1, [https://doi.org/10.5067/SE3XH9RXQWAM](https://doi.org/10.5067/SE3XH9RXQWAM), 2023
+* Paolo, F. S., Gardner, A. S., Greene, C. A., and Schlegel, N.-J.: MEaSUREs ITS\_LIVE Antarctic Ice Shelf Height Change and Basal Melt Rates, Version 1, [https://doi.org/10.5067/SE3XH9RXQWAM](https://doi.org/10.5067/SE3XH9RXQWAM), 2023
 
 * Rignot, E., Mouginot, J., and Scheuchl, B.: MEaSUREs InSAR-Based Ice Velocity of the Amundsen Sea Embayment, Antarctica, Version 1, [https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001](https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0545.001), 2014.
 
