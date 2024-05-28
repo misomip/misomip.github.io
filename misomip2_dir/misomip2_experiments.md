@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MISOMIP2 Experiments
-date: 02-11-2023
+date: 28-04-2024
 ---
 
 The MISOMIP2 experiments were designed with two broad objectives in mind. First, to test and intercompare the fidelity of ice-shelf--ocean models and ice-sheet--ocean models over the observational period, and second, to assess the sensitivity of models to a plausible change in the shape of the ice-shelf cavities and to a large perturbation in the atmospheric forcing. In all the following, _A_ stands for Amundsen, and _W_ for Weddell.
