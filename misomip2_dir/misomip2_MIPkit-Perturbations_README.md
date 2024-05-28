@@ -8,7 +8,7 @@ date: 02-11-2023
 
 <br>
 
-### Atmospheric forcing perturbation (A1vw, W1vw)
+### Atmospheric forcing perturbation (\*-warm experiments)
 
 ```
 Atm_*_anomaly_MISOMIP2.nc
@@ -16,7 +16,7 @@ Atm_*_anomaly_MISOMIP2.nc
 
 These data are described in [Mathiot and Jourdain (2023)](https://doi.org/10.5194/egusphere-2023-1606) and were initially provided on [https://doi.org/10.5281/zenodo.8139775](https://doi.org/10.5281/zenodo.8139775). They correspond to the monthly anomaly of the 2260-2299 mean (SSP5-8.5) with respect to the 1975-2014 mean (historical) in member r1i1p1f1 of the IPSL-CM6-LR simulations [(Boucher et al., 2020)](https://doi.org/10.1029/2019MS002010).
 
-The anomalies to add to the present-day reanalysis forcing in MISOMIP2's A1vw and W1vw experiments are provided as 3-hourly annual climatologies on the JRA55 lon-lat grid for the following variables:
+The anomalies to add to the present-day reanalysis forcing in MISOMIP2's \*-warm experiments are provided as 3-hourly annual climatologies on the JRA55 lon-lat grid for the following variables:
 
 * **dhuss**: Near-Surface Specific Humidity anomaly.
 * **dpr**: Precipitation anomaly at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective).
@@ -32,14 +32,14 @@ The anomalies are provided for a 365-day year. If the present-day forcing used i
 
 <br>
 
-### Ocean forcing perturbation (lateral boundary conditions) (A1vw, W1vw)
+### Ocean forcing perturbation (lateral boundary conditions) (\*-warm experiments)
 
 ```
 Ocean_p_*_climatology_MISOMIP2.nc
 Ocean_vw_*_climatology_MISOMIP2.nc
 ```
 
-These files are needed to prescribe an anomaly at the lateral boundaries of regional ocean and sea-ice models in the A1vw and W1vw experiments. The data come from the global 0.25° NEMO simulations described in [Mathiot and Jourdain (2023)](https://doi.org/10.5194/egusphere-2023-1606), including a simulation forced by the aformentioned perturbation of the atmospheric forcing. 
+These files are needed to prescribe an anomaly at the lateral boundaries of regional ocean and sea-ice models in the \*-warm experiments. The data come from the global 0.25° NEMO simulations described in [Mathiot and Jourdain (2023)](https://doi.org/10.5194/egusphere-2023-1606), including a simulation forced by the aformentioned perturbation of the atmospheric forcing. 
 
 Given that the method to do this is open and may be done either in the physical space or in the (T,S) space, we provide both the present-day (Oceanp) and the very warm future (Oceanvw) monthly climatologies rather than the anomalies. Variables are gathered in 5 types of files:
 
@@ -64,14 +64,14 @@ Note that the x-ward velocity (vozocrtx) and the y-ward velocity (vomecrty) are 
 
 <br>
 
-### Perturbed ice shelves geometry (Ocean-A2f, Ocean-W2f)
+### Perturbed ice shelves geometry (OceanA-Fgeom, OceanW-Fgeom)
 
 ```
 MISOMIP2_Ocean-x2f.nc
 ```
 
-The future ice draft in A2f is based on a 200-year simulation of the coupled ice-ocean model Úa-MITgcm, starting from a present-day ice-sheet geometry and forced by constant, shallow thermocline conditions on the Amundsen continental shelf [(DeRydt and Naughten 2023)](https://doi.org/10.5194/egusphere-2023-1587). For the W2f experiment, the future ice draft is based on an unpublished 300-year simulation of the coupled ice-ocean model Úa-MITgcm. The model configuration is identical to the abrupt-4xCO2 experiment described in [Naughten et al. (2021)](https://doi.org/10.1038/s41467-021-22259-0), but extended from 150 to 300 years based on a new timeseries of atmospheric and ocean boundary conditions from the UKESM-1-0-LL CMIP6 ensemble. The bathymetry for the A2f and W2f experiments is identical to the A2p and W2p experiments, i.e. BedMachine-Antarctica-v3 [(Morlighem 2022)](https://doi.org/10.5067/FPSU0V1MWUB6).
+The future ice draft in OceanA-Fgeom is based on a 200-year simulation of the coupled ice-ocean model Úa-MITgcm, starting from a present-day ice-sheet geometry and forced by constant, shallow thermocline conditions on the Amundsen continental shelf [(DeRydt and Naughten 2023)](https://doi.org/10.5194/egusphere-2023-1587). For the OceanW-Fgeom experiment, the future ice draft is based on an unpublished 300-year simulation of the coupled ice-ocean model Úa-MITgcm. The model configuration is identical to the abrupt-4xCO2 experiment described in [Naughten et al. (2021)](https://doi.org/10.1038/s41467-021-22259-0), but extended from 150 to 300 years based on a new timeseries of atmospheric and ocean boundary conditions from the UKESM-1-0-LL CMIP6 ensemble. The bathymetry for the Ocean\*-Fgeom experiments is identical to the Ocean\*-Pgeom experiments, i.e. BedMachine-Antarctica-v3 [(Morlighem 2022)](https://doi.org/10.5067/FPSU0V1MWUB6).
 
-The provided dataset is formatted exactly as [BedMachine-Antarctica-v3](https://doi.org/10.5067/FPSU0V1MWUB6)  which is used for both the Ocean-A2p and Ocean-W2p experiments.
+The provided dataset is formatted exactly as [BedMachine-Antarctica-v3](https://doi.org/10.5067/FPSU0V1MWUB6)  which is used for both the OceanA-Pgeom and OceanW-Pgeom experiments.
 
 NSIDC provides matlab and python scripts to interpolate these data onto longitude-latitude grids: [https://github.com/nsidc/nsidc0756-scripts](https://github.com/nsidc/nsidc0756-scripts)
