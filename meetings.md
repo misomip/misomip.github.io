@@ -9,8 +9,10 @@ permalink: /meetings/
 Here at the ISMIP7 Workshop June 9-14, 2024 at the Algonkian Regional Park, VA, USA. 
 
 <div>
-<img src="{{site.url}}img/ISMIP7_workshop.jpg" width="50%" height="50%"/>
+<img src="{{site.url}}img/ISMIP7_workshop.jpg" width="20%" height="20%"/>
+<br>
 </div>
+ 
 
 ----------
 
