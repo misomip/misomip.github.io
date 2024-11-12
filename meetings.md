@@ -4,6 +4,16 @@ title: Meetings
 permalink: /meetings/
 ---
 
+**Presentation of the MISOMIP2 protocol in various meetings (2023-2024)**
+
+Here at the ISMIP7 Workshop June 9-14, 2024 at the Algonkian Regional Park, VA, USA. 
+
+<div>
+<img src="{{site.url}}img/ISMIP7_workshop.jpg" width="50%" height="50%"/>
+</div>
+
+----------
+
 **MISOMIP2 Splinter Meeting (EGU 2023)**
 
 European Geosciences Union, Vienna, Austria & online
