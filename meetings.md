@@ -42,6 +42,8 @@ May 7-9, 2018
 
 This workshop was partly dedicated to the future steps for the MISOMIP community. It was decided to move to more realistic configurations for MISOMIP2.
 
+![]({{site.url}}/img/conf_2018_MISOMIP.jpeg)
+
 ----------
 
 **MISOMIP Splinter Meeting (EGU 2017)**
@@ -59,6 +61,8 @@ A MISOMIP splinter meeting was held on 24 April as part of the European Geoscien
 New York University Campus in Abu Dhabi, United Arab Emirates
 
 May 16-18, 2016
+
+![]({{site.url}}/img/conf_2016_MISOMIP.jpeg)
 
 ----------
 
@@ -98,4 +102,4 @@ October 27-29, 2014
 
 This first workshop included more than 30 leading researchers from around the world working toward coupled ice sheet-ocean modeling. The workshop included a series of brainstorming sessions, culminating in a plan for a series of community activities, progressing from seperate ice sheet and ocean components toward coupled models and from idealized to realistic model setups. Participants felt that the idealized experiments should leverage an existing community effort focused on standalone ice sheet models, the third Marine Ice Sheet Intercomparison Project (MISMIP+), built on earlier MISMIP and MISMIP3d projects. We envisioned a companion exercise focused on standalone ocean models, the second Ice Shelf Ocean Intercomparison Project (ISOMIP+), which would also build on the earlier ISOMIP project and the coupled modeling of Goldeberg et al. (2012a, 2012b). A third community experiment, the first Marine Ice Sheet-Ocean Model Intercomparison Project (MISOMIP1), would essentially couple together MISMIP+ and ISOMIP+. Design of these three interrelated MIPs has since proceeded with input from both workshop participants and the broader ice sheet-ocean modeling community. A design document covering all three projects is currently under review in Geoscientific Model Development.
 
-![]({{site.url}}/img/2014-MISOMIP-Workshop-Participants.jpeg)
+![]({{site.url}}/img/conf_2014_MISOMIP.jpeg)
