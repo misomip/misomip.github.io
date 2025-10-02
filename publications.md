@@ -12,7 +12,21 @@ permalink: /publications/
 
 <br>
 
-The publications emanating from the entire MISOMIP consortium are in **bold**. The other publications make use of some of the MISOMIP configurations. 
+The publications emanating from the MISOMIP consortium are in **bold**. The other publications make use of some of the MISOMIP configurations. 
+
+**2025**
+
+* Richter, O., Timmermann, R., Gudmundsson, G. H., and De Rydt, J. (2025). Coupling framework (1.0) for the Úa (2023b) ice sheet model and the FESOM-1.4 z-coordinate ocean model in an Antarctic domain. Geoscientific Model Development, 18(10), 2945-2960. [doi:10.5194/gmd-18-2945-2025](https://doi.org/10.5194/gmd-18-2945-2025)
+
+* Dundovic, D., Wallwork, J. G., Kramer, S. C., Gillet-Chaulet, F., Hock, R. and Piggott, M. D. (2025). Anisotropic metric-based mesh adaptation for ice flow modelling in Firedrake. Geoscientific Model Development, 18(13), 4023-4044, [doi:10.5194/gmd-18-4023-2025](https://doi.org/10.5194/gmd-18-4023-2025).
+
+* Jesse, F., Lambert, E. and van de Wal, R. S. (2025). Sub-shelf melt pattern and ice sheet mass loss governed by meltwater flow below ice shelves. The Cryosphere, 19(9), 3849-3872. [doi:10.5194/tc-19-3849-2025](https://doi.org/10.5194/tc-19-3849-2025)
+
+**2024**
+
+* **De Rydt, J., Jourdain, N. C., Nakayama, Y., van Caspel, M., Timmermann, R., Mathiot, P., Asay-Davis, X. S., Seroussi, H., Dutrieux, P., Galton-Fenzi, B., Holland, D., and Reese, R. (2024). Experimental design for the marine ice sheet and ocean model intercomparison project - phase 2 (MISOMIP2). Geophysical Model Development, 17, 7105–7139,** [doi:10.5194/gmd-17-7105-2024](https://doi.org/10.5194/gmd-17-7105-2024).
+
+* Zhou, Q., Zhao, C., Gladstone, R., Hattermann, T., Gwyther, D., and Galton-Fenzi, B. (2024). Evaluating an accelerated forcing approach for improving computational efficiency in coupled ice sheet–ocean modelling. Geoscientific Model Development, 17(22), 8243-8265, [doi:10.5194/gmd-17-8243-2024](https://doi.org/10.5194/gmd-17-8243-2024)
 
 **2023**
 
