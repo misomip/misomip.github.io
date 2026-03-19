@@ -17,9 +17,9 @@ At this stage, we are asking participants to submit results **only for the follo
 - **OceanA-hind**  
 - **OceanW-hind**  
 
-Submissions for the other MISOMIP2 experiments will be **requested in later calls**.
-
 A short description of all experiments can be found [here](/misomip2_dir/misomip2_experiments.md), with further details available in the [protocol manuscript](https://gmd.copernicus.org/articles/17/7105/2024/).
+
+Submissions for the other MISOMIP2 experiments will be **requested in later calls**.
 
 ---
 
