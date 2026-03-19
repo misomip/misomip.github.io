@@ -4,15 +4,13 @@ title: MISOMIP2 Submissions
 date: 19-03-2026
 ---
 
-## MISOMIP2 Phase 1 Submissions
-
 **🟢 The first phase of MISOMIP2 submissions is now open!**  
 
 **Deadline:** Open-ended for now. We will update once we have an expected submission timeframe.
 
 ---
 
-## Current submission focus
+## Submission focus
 
 At this stage, we are asking participants to submit results **only for the following experiments**:
 
