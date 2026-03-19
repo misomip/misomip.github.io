@@ -7,6 +7,7 @@ date: 19-03-2026
 The MISOMIP2 experiments were designed with two broad objectives in mind. First, to test and intercompare the fidelity of ice-shelf--ocean models and ice-sheet--ocean models over the observational period, and second, to assess the sensitivity of models to a plausible change in the shape of the ice-shelf cavities and to a large perturbation in the atmospheric forcing. In all the following, _A_ stands for Amundsen, and _W_ for Weddell.
 
 ## Ice-shelf–ocean simulations
+===
 
 ### 🟢 Phase 1&nbsp;&nbsp;&nbsp;&nbsp;[[Now Open](Submission page URL)]
 
@@ -21,9 +22,8 @@ The MISOMIP2 experiments were designed with two broad objectives in mind. First,
 - **OceanA-ctrl & OceanW-ctrl** experiments are extensions of OceanA-hind & OceanW-hind and forced by present-day atmospheric conditions to be used as a control for the perturbation experiments.
 - **OceanA-Pgeom, OceanA-Fgeom, OceanW-Pgeom, OceanW-Fgeom** experiments are designed to compare the response of simulated melt rates in stand-alone ocean models to an imposed modification of the ice-shelf geometry. Two distinct geometries for the Amundsen Sea and Filchner-Ronne cavities are provided: one that represents the present-day state of the ice sheet (OceanA-Pgeom and OceanW-Pgeom experiments), and one hypothetical future state (OceanA-Fgeom and OceanW-Fgeom experiments). The atmospheric forcing remains unchanged between these experiments. The difference between Ocean\*-Pgeom and Ocean\*-hind experiments is that in the former, the present-day geometry of the ice shelves is prescribed and provided as part of the MIPkit, whereas in the latter the user is free to choose a present-day ice-sheet geometry as part of the CAYA approach.
 
-## Ice-sheet–ocean simulations&nbsp;&nbsp;&nbsp;&nbsp;
-
-🟡 **[Calls starting 2028]**
+## 🟡 Ice-sheet–ocean simulations&nbsp;&nbsp;&nbsp;&nbsp;[Calls starting 2028]
+===
 
 **Experiments:**
 - **IceOceanA-hind & IceOceanW-hind** experiments are similar to OceanA-hind & OceanW-hind focusing on present-day conditions, but with coupled ice-sheet--ocean models (including intermediate-complexity coupling through parameterisations). Here we aim to compare the simulated ice and ocean evolution to recent observations. We will also attempt to estimate the bias reduction (if any) that such coupled models attain compared to standalone ocean models.
