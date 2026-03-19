@@ -8,7 +8,7 @@ The MISOMIP2 experiments were designed with two broad objectives in mind. First,
 
 ## Ice-shelf–ocean simulations
 
-### 🟢 Phase 1&nbsp;&nbsp;&nbsp;&nbsp;[[Now Open](https://github.com/misomip/misomip.github.io/blob/main/misomip2_dir/misomip2_submissions.md)]
+### 🟢 Phase 1&nbsp;&nbsp;&nbsp;&nbsp;[[Now Open](/misomip2_dir/misomip2_submissions.md)]
 
 **Experiments:**
 - **OceanA-hind & OceanW-hind** experiments are designed to compare stand-alone ocean model simulations with static ice shelves and present-day atmospheric forcing to a common set of ocean observations that are relevant to Antarctic ice shelves, to analyse multi-model sensitivity to external drivers, and to potentially identify clusters of models with a similar behaviour for specific modelling choices. 
