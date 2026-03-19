@@ -31,6 +31,12 @@ Please follow these steps to submit your MISOMIP2 data contribution.
 
 Organize your simulation output files according to the [MISOMIP2 data format guidelines](https://gmd.copernicus.org/articles/17/7105/2024/).  
 
+We provide a [Python package](https://github.com/misomip/misomip2) to help process model outputs into the **standard MISOMIP2 format**.  
+
+> **Note:** While this package has been tested on a range of ocean model outputs, we **cannot guarantee compatibility with every model setup**.  
+
+If you encounter any issues or have questions, please **do not hesitate to contact us**.
+
 ---
 
 ### 2. Create a Zenodo archive
