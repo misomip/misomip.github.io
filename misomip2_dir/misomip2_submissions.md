@@ -33,9 +33,7 @@ Organize your simulation output files according to the [MISOMIP2 data format gui
 
 We provide a [Python package](https://github.com/misomip/misomip2) to help process model outputs into the **standard MISOMIP2 format**.  
 
-> **Note:** While this package has been tested on a range of ocean model outputs, we **cannot guarantee compatibility with every model setup**.  
-
-If you encounter any issues or have questions, please **do not hesitate to contact us**.
+> **Note:** While this package has been tested on a range of ocean model outputs, we cannot guarantee compatibility with every model setup. If you encounter any issues or have questions, please **do not hesitate to contact us**.
 
 ---
 
