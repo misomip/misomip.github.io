@@ -33,3 +33,5 @@ To register to the MISOMIP2 mailing list, send an email with "subscribe misomip2
 * [**on the MIPkit**](/misomip2_dir/misomip2_MIPkit.md)
 
 * [**on the experiments**](/misomip2_dir/misomip2_experiments.md)
+
+* [**submitting to misomip2**](/misomip2_dir/misomip2_submissions.md)
