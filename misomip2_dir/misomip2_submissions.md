@@ -39,7 +39,7 @@ We provide a [Python package](https://github.com/misomip/misomip2) to help proce
 
 ### 2. Create a Zenodo archive
 
-We will use [Zenodo](https://zenodo.org/) to host MISOMIP2 contributions. Please follow the steps below.
+We will use [Zenodo](https://zenodo.org/) to host MISOMIP2 contributions. Each participant should upload their data to a personal archive, retaining full ownership and control, including the ability to update or remove their submission. We will then access the data directly from these archives for processing. To upload your data to Zenodo, please follow the steps below.
 
 #### 2.1 Sign in / Create an account
 
