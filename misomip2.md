@@ -11,6 +11,11 @@ permalink: /misomip2/
 <br>
 
 <br>
+**🟢 The first phase of MISOMIP2 submissions is now [open](/misomip2_dir/misomip2_submissions.md)!**  
+
+**Deadline:** Open-ended for now. We will update once we have an expected submission timeframe.
+
+<br>
 
 **Co-chairs:**
 
