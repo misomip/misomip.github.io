@@ -89,6 +89,6 @@ Providing accurate metadata ensures your data is discoverable and reusable.
 
 ---
 
-### 5. Example
+%### 5. Example
 
-A Zenodo archive with example MISOMIP2 data can be found [here](placeholder).
+%A Zenodo archive with example MISOMIP2 data can be found [here](placeholder).
