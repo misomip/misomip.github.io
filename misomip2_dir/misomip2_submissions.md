@@ -87,8 +87,3 @@ Providing accurate metadata ensures your data is discoverable and reusable.
 - We will acknowledge receipt of your data.  
 - If there are any immediate issues with file formats, metadata, or access, we will contact you shortly.
 
----
-
-%### 5. Example
-
-%A Zenodo archive with example MISOMIP2 data can be found [here](placeholder).
