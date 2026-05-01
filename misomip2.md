@@ -11,15 +11,8 @@ permalink: /misomip2/
 <br>
 
 <br>
-**🟢 The first phase of MISOMIP2 submissions is now [open](/misomip2_dir/misomip2_submissions.md)!**  
 
-**Deadline:** Open-ended for now. We will update once we have an expected submission timeframe.
-
-<br>
-
-**Co-chairs:**
-
-**Jan De Rydt, Nicolas Jourdain, Mathias van Caspel, Yoshihiro Nakayama, Ralph Timmermann**
+**🟢 The first phase of MISOMIP2 submissions is now [open](/misomip2_dir/misomip2_submissions.md)**  
 
 <br>
 
@@ -40,3 +33,11 @@ To register to the MISOMIP2 mailing list, send an email with "subscribe misomip2
 * [**the experiments**](/misomip2_dir/misomip2_experiments.md)
 
 * [**submitting to MISOMIP2**](/misomip2_dir/misomip2_submissions.md)
+
+<br>
+
+**Co-chairs:**
+
+**Jan De Rydt, Nicolas Jourdain, Mathias van Caspel, Yoshihiro Nakayama, Ralph Timmermann**
+
+
