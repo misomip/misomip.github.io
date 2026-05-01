@@ -10,8 +10,6 @@ permalink: /misomip2/
 
 <br>
 
-<br>
-
 **🟢 [April 2026] The first phase of MISOMIP2 submissions is now [open](/misomip2_dir/misomip2_submissions.md)**  
 
 <br>
