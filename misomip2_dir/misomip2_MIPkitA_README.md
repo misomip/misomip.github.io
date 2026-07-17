@@ -4,11 +4,11 @@ title: MIPkit-A (Amundsen)
 date: 02-11-2023
 ---
 
-[**Download MIPkit-A from Zenodo**](http://doi.org/10.5281/zenodo.10062356)
+[**Download MIPkit-A from Zenodo**](https://doi.org/10.5281/zenodo.21405880)
 
 Observational data kit gathered and reprocess to facilitate the evaluation of ocean models as part of [MISOMIP2](https://misomip.github.io/misomip2/).
 
-**This entire dataset should be cited as** _the MISOMIP2 MIPkit-A dataset [http://doi.org/10.5281/zenodo.10062356](http://doi.org/10.5281/zenodo.10062356) that includes data collected through multiple cruises of the Nathaniel B. Palmer (United States Antarctic Program), James C. Ross (British Antarctic Survey and Natural Environment Research Council), Araon (Korea Polar Research Institute), Oden (Swedish Polar Research) and Polarstern (Alfred Wegener Institute, Germany), as well as regridded glaciological data from the MeaSUREs, MeaSUREs ITS\_LIVE and CPOM projects_.
+**This entire dataset should be cited as** _the MISOMIP2 MIPkit-A dataset (version 2.0) [https://doi.org/10.5281/zenodo.21405880](https://doi.org/10.5281/zenodo.21405880) that includes data collected through multiple cruises of the Nathaniel B. Palmer (United States Antarctic Program), James C. Ross (British Antarctic Survey and Natural Environment Research Council), Araon (Korea Polar Research Institute), Oden (Swedish Polar Research) and Polarstern (Alfred Wegener Institute, Germany), as well as regridded glaciological data from the MeaSUREs, MeaSUREs ITS\_LIVE and CPOM projects_.
 
 For more specific use of some of the MIPkit-A data, we encourage people to cite the original data referenced below.
 
@@ -40,6 +40,12 @@ The first mooring site (**OceMoor1**) is located near the northern part of the P
 
 The third mooring observation (**OceMoor3**, "trough-e" in NERC Ocean Forcing Ice Change Program) used in MISOMIP is at the eastern Pine Island trough (102.55°W, 71.33°S). The eastern trough is considered to be the entrance of mCDW reaching the Pine Island Ice Shelf ([Jacobs et al. 2011](https://doi.org/10.1038/ngeo1188); [Nakayama et al. 2013](https://doi.org/10.1016/j.dsr.2013.04.001); [Webber et al. 2017](https://doi.org/10.1038/ncomms14507)) but only two years of mooring observation was conducted from 2014-2015 due to important sea ice cover. The fourth mooring site (**OceMoor4**) used in MISOMIP is at the western Pine Island trough (113.05°W, 71.56°S). Several mooring observations were conducted within 2 km of each other, allowing us to observe thermocline variability from 2009 to 2016 with one year gap in 2011: "BSR-12" ([Jacobs 2009](http://doi.org/10.7284/905547)), "iSTAR-1" ([NERC iSTAR Program](https://www.istar.ac.uk)), and "trough-w" (NERC Ocean Forcing Ice Change Program).
 
+The fifth mooring observation (**OceMoor5**, "mid-shelf" in the NERC Ocean Forcing Ice Change Program) used in MISOMIP2 is at the middle of the eastern Amunsen Sea in the submarine glacial trough connecting open water and Pine Island and Thwaites ice shelves (106.53°W, 73.81°S). Two mooring observations were conducted within a few kilometers of each other, allowing us to observe thermocline variability from 2012 to 2018: "iSTAR-6" (NERC iSTAR Program), and "mid-shelf" (NERC Ocean Forcing Ice Change Program).
+
+The sixth and seventh moorings used in MISOMIP2 are located in the Getz-Dotson trough (**OceMoor6**, 114.99°W, 71.16°S and **OceMoor7**, 118.46°W, 71.96°S). They were originally deployed under the names "BSR-7" and "BSR-14" ([Jacobs 2009](http://doi.org/10.7284/905547)) and further deployments were conducted by the Korea Polar Research Institute. These mooring observations have been used to study the inflow of warm ocean heat towards the Getz and Dotson ice shelves (Kim et al. [2016](https://ftp.nmdc.no/nmdc/UIB/Mooring/20181213/ANA06B_cruise_report.pdf), 2017, [2018](https://repository.kopri.re.kr/handle/201206/9441)).
+
+The eighth mooring used in MISOMIP2 is located beneath the Thwaites ice shelf (**OceMoor8**, 104.83°W, 75.21°S) and has been used to study ice shelf cavity environment in 2020--2021 (Davis et al., [2021](http://doi.org/10.5285/4ffad557-1c3c-4ea7-a73d-6d782331b08a), [2023](http://doi.org/10.1038/s41586-022-05586-0)).
+
 ----------
 #### To know more on how these files were prepared:
 
@@ -47,6 +53,10 @@ The archive **example\_routines.zip** contains example of Matlab routine that we
 
 ----------
 #### References
+
+* Davis, P., Nicholls, K. and Holland, D.: Thwaites MELT: Temperature, salinity and velocity time series from the grounding zone region of Thwaites Glacier Eastern ice shelf (2020) (Version 1.0) [Data set]. UK Polar Data Centre, Natural Environment Research Council, UK Research & Innovation. [https://doi.org/10.5285/4ffad557-1c3c-4ea7-a73d-6d782331b08a](https://doi.org/10.5285/4ffad557-1c3c-4ea7-a73d-6d782331b08a), 2021.
+
+* Davis, P.E.D., Nicholls, K.W., Holland, D.M. et al.: Suppressed basal melting in the eastern Thwaites Glacier grounding zone. Nature 614, 479–485, [https://doi.org/10.1038/s41586-022-05586-0](https://doi.org/10.1038/s41586-022-05586-0), 2023.
 
 * Dutrieux, P., De Rydt, J., Jenkins, A., Holland, P. R., Ha, H. K., Lee, S. H., Steig, E. J., Ding, Q., Abrahamsen, E. P., and Schröder, M.: Strong sensitivity of Pine Island ice-shelf melting to climatic variability, Science, 343, 174–178, 2014.
 
